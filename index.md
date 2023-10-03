@@ -15,3 +15,6 @@
 \left( 1 + 2x \right)
 \end{equation}
 ```
+### Tasks
+- [x] Attend Fede's talk
+- [ ] Make one more task
